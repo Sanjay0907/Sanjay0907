@@ -51,5 +51,9 @@
   </a>
 </div>
 
-###
 
+
+###
+<h2 align="left">Contributions</h2>
+
+![snake gif](https://raw.githubusercontent.com/Sanjay0907/Sanjay0907/output/github-snake-dark.svg)
