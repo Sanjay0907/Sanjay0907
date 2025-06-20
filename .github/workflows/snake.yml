@@ -74,7 +74,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
@@ -86,7 +86,7 @@ jobs:
 
         with:
 
-          github_token: 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
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
           publish_dir: ./dist
 
